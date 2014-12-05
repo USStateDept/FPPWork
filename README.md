@@ -1,4 +1,4 @@
-# FPU / Visa Data Analysis Summary Program
+# FPP / Visa Data Analysis Summary Program
 # by State.gov eDiplomacy / GIS Team
 #
 
